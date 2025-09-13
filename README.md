@@ -53,9 +53,6 @@ const developer = {
 ### 🛠️ Tools & Technologies 
 <img src="https://skillicons.dev/icons?i=git,mysql,github&theme=dark" />
 
-### 🎨 Design & Others
-<img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,adobe illustrator,vscode&theme=dark" />
-
 </div>
 
 ---
