@@ -95,9 +95,7 @@ username=MubaraqYusuf&theme=tokyonight&hide_border=true&include_all_commits=true
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MubaraqYusuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
-
-</div>
-    
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **✨ "The best error message is the one that never shows up." ✨**
