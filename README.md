@@ -68,10 +68,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&background=0D1117&stroke=30A3DC&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=30A3DC&point=FF6B35&area=true&hide_border=true" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
