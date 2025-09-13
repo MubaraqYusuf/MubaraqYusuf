@@ -14,12 +14,9 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer & AI Enthusiast",
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    currentFocus: "Building scalable web applications with AI integration",
-    funFact: "I debug with console.log() and I'm not ashamed 🐛",
+    name: "sunshine_wrlld",
+    role: "Full Stack Developer",
+    languages: ["JavaScript", "Python", "SQL", "Java", "Html", "Css"],
     
     workingOn: {
         🔭: "Revolutionary AI-powered web applications",
@@ -111,29 +108,6 @@ const developer = {
 
 ---
 
-## 🎭 Fun Facts & Quirks
-
-<div align="center">
-
-```yaml
-personality:
-  coffee_dependency: "Critical ☕"
-  debugging_style: "Rubber duck driven development 🦆"
-  favorite_time_to_code: "2 AM with lo-fi beats 🌙"
-  superpower: "Turning caffeine into code ⚡"
-  weakness: "Merge conflicts 😅"
-  
-random_facts:
-  - "I can solve a Rubik's cube while compiling code 🧩"
-  - "My commit messages are poetry 📝"
-  - "I dream in JSON and wake up in XML 💭"
-  - "Stack Overflow is my second home 🏠"
-  - "I believe semicolons are optional in life 😉"
-```
-
-</div>
-
----
 
 ## 📈 Coding Stats
 
@@ -141,10 +115,10 @@ random_facts:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
-CSS          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
+HTML        12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
+CSS         8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
+Python      3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
+Javascript  1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
 ```
 <!--END_SECTION:waka-->
 
