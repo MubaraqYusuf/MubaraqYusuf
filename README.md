@@ -61,7 +61,7 @@ const developer = {
 
 <div align="center" >
     
-![](https://github-readme-stats.vercel.app/api?username=MubaraqYusuf&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30A3DC&hide_border=true")
+![](https://github-readme-stats.vercel.app/api?username=MubaraqYusuf&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30A3DC")
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubaraqYusuf&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30A3DC&hide_border=true"/>
 </div>
 
