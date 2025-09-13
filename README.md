@@ -60,11 +60,11 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30A3DC&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubaraqYusuf&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30A3DC&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&background=0D1117&stroke=30A3DC&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubaraqYusuf&theme=tokyonight&background=0D1117&stroke=30A3DC&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&hide_border=true" />
 </div>
 
 ---
