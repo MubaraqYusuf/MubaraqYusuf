@@ -73,7 +73,6 @@ const developer = {
 
 <div align="center">
     
-![](https://github-readme-stats.vercel.app/api?username=MubaraqYusuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubaraq-y-65149b345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunshinewrlld@gmail.com)
 
