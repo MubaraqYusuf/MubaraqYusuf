@@ -15,7 +15,7 @@
 ```javascript
 const developer = {
     name: "sunshine_wrlld",
-    role: "Full Stack Developer",
+    role: "Software Engineers || Web Developer || Mobile Developer",
     languages: ["JavaScript", "Python", "SQL", "Java", "Html", "Css"],
     
     workingOn: {
