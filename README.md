@@ -78,41 +78,6 @@ const developer = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.mubaraqyusuf2000@gmail.com)
 
-
-</div>
-
----
-
-## 📊 Detailed Stats
-
-<div align="center">
-
-<details>
-<summary>📈 More GitHub Stats</summary>
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</details>
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-
-<br>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/yourusername/project/pull/123) in [yourusername/project](https://github.com/yourusername/project)
-2. 💪 Opened PR [#124](https://github.com/yourusername/project/pull/124) in [yourusername/project](https://github.com/yourusername/project)
-3. 🗣 Commented on [#125](https://github.com/yourusername/project/issues/125) in [yourusername/project](https://github.com/yourusername/project)
-4. 🔥 Pushed 5 commits to [yourusername/project](https://github.com/yourusername/project)
-5. ⭐ Starred [awesome/repository](https://github.com/awesome/repository)
-<!--END_SECTION:activity-->
-
-</details>
-
 </div>
 
 ---
