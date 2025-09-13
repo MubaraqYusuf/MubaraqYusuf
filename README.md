@@ -19,7 +19,7 @@ const developer = {
     languages: ["JavaScript", "Python", "SQL", "Java", "Html", "Css"],
     
     workingOn: {
-        🔭: "Revolutionary AI-powered web applications",
+        🔭: "Web applications",
         🌱: "Advanced cloud architecture and DevOps",
         👯: "Open source projects that matter",
         🤔: "The next big thing in tech"
