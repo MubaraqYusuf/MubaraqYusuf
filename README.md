@@ -96,6 +96,21 @@ const developer = {
 </details>
 
 <details>
+<summary>⚡ Recent GitHub Activity</summary>
+
+<br>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/MubaraqYusuf/project/pull/123) in [sunshine_wrlld/project](https://github.com/MubaraqYusuf/project)
+2. 💪 Opened PR [#124](https://github.com/MubaraqYusuf/project/pull/124) in [sunshine_wrlld/project](https://github.com/MubaraqYusuf/project)
+3. 🗣 Commented on [#125](https://github.com/MubaraqYusuf/project/issues/125) in [sunshine_wrlld/project](https://github.com/MubaraqYusuf/project)
+4. 🔥 Pushed 5 commits to [MubaraqYusuf/project](https://github.com/sunshine_wrlld/project)
+5. ⭐ Starred [awesome/repository](https://github.com/awesome/repository)
+<!--END_SECTION:activity-->
+
+</details>
+
+</div>
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
