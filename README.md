@@ -85,21 +85,6 @@ const developer = {
 
 ---
 
-## 🎯 Current Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🤖 **AI Chat Bot** | Intelligent conversational AI with NLP | Python, TensorFlow, FastAPI | 🚀 Live |
-| 🌐 **E-Commerce Platform** | Full-stack shopping experience | React, Node.js, MongoDB | 🔧 Development |
-| 📱 **Mobile App** | Cross-platform productivity app | React Native, Firebase | 📋 Planning |
-| 🔐 **Security Tool** | Cybersecurity automation suite | Go, Docker, Kubernetes | 🧪 Testing |
-
-</div>
-
----
-
 ## 🎨 Contribution Graph
 
 <div align="center">
