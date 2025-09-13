@@ -37,7 +37,7 @@ const developer = {
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "Code is like humor. When you have to explain it, it's bad."
 
 </div>
 
@@ -47,11 +47,11 @@ const developer = {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,vue,angular,express,fastapi&theme=dark" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,java,python,css,html,cs,cpp&theme=dark" />
 
-### 🛠️ Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,sql,gcp,mongodb&theme=dark" />
+### 🛠️ Tools & Technologies 
+<img src="https://skillicons.dev/icons?i=git,mysql,github&theme=dark" />
 
 ### 🎨 Design & Others
 <img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,adobe illustrator,vscode&theme=dark" />
