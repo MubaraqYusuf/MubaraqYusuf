@@ -84,8 +84,6 @@ const developer = {
 
 <div align="center">
 
-<details>
-
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=MubaraqYusuf&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
