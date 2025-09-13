@@ -51,10 +51,10 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,vue,angular,express,fastapi&theme=dark" />
 
 ### 🛠️ Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,mongodb,postgresql,redis,graphql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,sql,gcp,mongodb&theme=dark" />
 
 ### 🎨 Design & Others
-<img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,sass,webpack,vite,jest,cypress,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,tailwind,adobe illustrator,vscode&theme=dark" />
 
 </div>
 
