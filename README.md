@@ -85,14 +85,6 @@ const developer = {
 
 ---
 
-## 🎨 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 
 ## 📈 Coding Stats
 
@@ -170,19 +162,6 @@ If you find my projects helpful, consider supporting me:
 </details>
 
 </div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=flat-square&label=Profile+Views)
-
-### 🐍 Watch my contributions get eaten by a snake!
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
