@@ -85,7 +85,6 @@ const developer = {
 <div align="center">
 
 <details>
-<summary>📈 More GitHub Stats</summary>
 
 <br>
 
