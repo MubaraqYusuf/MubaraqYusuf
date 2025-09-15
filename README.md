@@ -26,7 +26,7 @@ const developer = {
     },
     
     dailyRoutine: [
-        "☕ Coffee++",
+        "☕ Coffee",
         "💻 Code",
         "🐛 Debug", 
         "🚀 Deploy",
