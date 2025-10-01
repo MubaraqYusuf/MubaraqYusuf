@@ -17,7 +17,7 @@
 const developer = {
     name: "sunshine_wrlld",
     role: "Software Engineers || Web Developer || Mobile Developer",
-    languages: ["JavaScript", "Python", "SQL", "Java", "Html", "Css", "c++"],
+    languages: ["JavaScript", "Python", "SQL", "Java", "Html", "Css", "c++", GitHub],
     
     workingOn: {
         🔭: "Web applications",
