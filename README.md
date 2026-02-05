@@ -46,7 +46,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=js,java,python,css,html,cs,cpp&theme=dark" />
 
 ### 🛠️ Tools & Technologies 
-<img src="https://skillicons.dev/icons?i=git,mysql,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,mysql,github,docker,linux&theme=dark" />
 
 
 
