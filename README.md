@@ -50,6 +50,10 @@ const developer = {
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="50"/>
 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/xampp.svg" alt="XAMPP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftsqlserver.svg" alt="T-SQL / SQL Server" width="40" height="40"/>
+
+
 
 
 
