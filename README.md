@@ -46,29 +46,8 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=js,java,python,css,html,cs,cpp&theme=dark" />
 
 ### 🛠️ Tools & Technologies 
-<img src="https://skillicons.dev/icons?i=git,mysql,github&theme=dark" />
-<p align="center" style="background:#0d1117; padding:16px; border-radius:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
+<img src="https://skillicons.dev/icons?i=git,mysql,github,docker&theme=dark" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-       style="background:#111827; padding:12px; border-radius:14px; margin:6px;" width="48"/>
-</p>
 
 
 
