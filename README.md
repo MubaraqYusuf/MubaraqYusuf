@@ -46,7 +46,10 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=js,java,python,css,html,cs,cpp&theme=dark" />
 
 ### 🛠️ Tools & Technologies 
-<img src="https://skillicons.dev/icons?i=git,mysql,github,docker,linux,microsoftsqlserver,xampp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,mysql,github,docker,linux&theme=dark" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="50"/>
+
 
 
 
